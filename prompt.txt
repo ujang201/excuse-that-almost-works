@@ -1,0 +1,10 @@
+Write the one line a gamer texts the boss to skip work on GTA 6 launch week.
+
+Constraints:
+- Exactly one line of plain text, at most 20 words, 1-140 characters.
+- It must read like something a real person sends in a hurry: plain words, no setup, no explanation, no signature.
+- It must sound like something a tired manager would almost believe: a real, specific, boring workplace detail rather than a wild story.
+- The humour must come from the excuse's own logic or detail, not from a joke bolted on the end.
+- Find a fresh angle: NOT a dead grandmother, NOT a flat tyre, NOT a sudden fever.
+
+The angle I chose: a boring building mishap that traps the one thing work needs — the laptop bag stuck in a broken lift, with maintenance unable to free it until noon. Believable, specific, mildly funny because the excuse defeats itself (you can't work without the laptop, and the laptop is hostage to the lift), and it sounds typed in a hurry.
